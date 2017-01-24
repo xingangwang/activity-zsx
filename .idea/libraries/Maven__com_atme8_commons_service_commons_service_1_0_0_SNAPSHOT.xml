@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.atme8.commons.service:commons-service:1.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://G:/.m2/repository/com/atme8/commons/service/commons-service/1.0.0-SNAPSHOT/commons-service-1.0.0-20160706.063559-10.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://G:/.m2/repository/com/atme8/commons/service/commons-service/1.0.0-SNAPSHOT/commons-service-1.0.0-20160706.063559-10-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://G:/.m2/repository/com/atme8/commons/service/commons-service/1.0.0-SNAPSHOT/commons-service-1.0.0-20160706.063559-10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

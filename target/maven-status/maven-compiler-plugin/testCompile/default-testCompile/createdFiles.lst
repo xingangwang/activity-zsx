@@ -1,0 +1,6 @@
+com\atme8\activity\dao\UserDaoTest.class
+com\atme8\activity\service\client\CasClientTest.class
+com\atme8\activity\BaseTest.class
+com\atme8\activity\service\UserServiceTest.class
+com\atme8\activity\dao\ActivityDaoTest.class
+com\atme8\activity\dao\RegistrationDaoTest.class
